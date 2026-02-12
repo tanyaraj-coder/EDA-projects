@@ -11,23 +11,23 @@ To analyze the factors affecting house prices and understand relationships betwe
 
 Key Analysis Performed:
 
-Data loading and inspection
++ Data loading and inspection
 
-Descriptive statistics
++ Descriptive statistics
 
-Categorical variable distribution
++ Categorical variable distribution
 
-Correlation analysis
++ Correlation analysis
 
-Data visualization using count plots and heatmaps
++ Data visualization using count plots and heatmaps
 
 Key Insights:
 
-Price shows positive correlation with area and number of bathrooms
++ Price shows positive correlation with area and number of bathrooms
+  
++ No extreme multicollinearity observed
 
-No extreme multicollinearity observed
-
-Semi-furnished houses are the most common
++ Semi-furnished houses are the most common
 
 
 ### 2️⃣ Wine Quality EDA
