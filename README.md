@@ -2,9 +2,9 @@
 This repository contains multiple Exploratory Data Analysis (EDA) projects performed using Python.
 Each project focuses on understanding the dataset through data cleaning, statistical analysis, and visualizations to extract meaningful insights.
 
-## 🗂️ Projects Included
+##  Projects Included
 
-### 1️⃣ Housing Price EDA
+### 1️.) Housing Price EDA
 Dataset: Housing dataset (CSV)
 Objective:
 To analyze the factors affecting house prices and understand relationships between numerical and categorical variables.
@@ -30,7 +30,7 @@ Key Insights:
 + Semi-furnished houses are the most common
 
 
-### 2️⃣ Wine Quality EDA
+### 2️.) Wine Quality EDA
 
 Dataset: Red Wine Quality dataset
 Objective:
@@ -38,26 +38,26 @@ To analyze chemical properties of wine and their impact on wine quality.
 
 Key Analysis Performed:
 
-Data structure and summary statistics
++ Data structure and summary statistics
 
-Missing value and duplicate checks
++ Missing value and duplicate checks
 
-Univariate, bivariate, and multivariate analysis
++ Univariate, bivariate, and multivariate analysis
 
-Distribution plots, KDE plots, box plots, violin plots, and swarm plots
++ Distribution plots, KDE plots, box plots, violin plots, and swarm plots
 
-Correlation heatmap
++ Correlation heatmap
 
 Key Insights:
 
-Alcohol content has a strong relationship with wine quality
++ Alcohol content has a strong relationship with wine quality
 
-Most wines fall under quality ratings 5 and 6
++ Most wines fall under quality ratings 5 and 6
 
-No missing values in the dataset
++ No missing values in the dataset
 
 
-### 3️⃣ Zomato EDA
+### 3️.) Zomato EDA
 
 Dataset: Zomato dataset
 Objective:
@@ -65,21 +65,21 @@ To analyze restaurant trends, pricing, and customer preferences.
 
 Key Analysis Performed:
 
-Data cleaning and preprocessing
++ Data cleaning and preprocessing
 
-Exploratory analysis on ratings and cost
++ Exploratory analysis on ratings and cost
 
-Visualization of restaurant distribution
++ Visualization of restaurant distribution
 
-Customer behavior insights
++ Customer behavior insights
 
 Key Insights:
 
-Certain cuisines dominate the dataset
++ Certain cuisines dominate the dataset
 
-Price range influences customer ratings
++ Price range influences customer ratings
 
-Urban locations show higher restaurant density
++ Urban locations show higher restaurant density
 
 
 ## 🛠️ Tools & Technologies Used
